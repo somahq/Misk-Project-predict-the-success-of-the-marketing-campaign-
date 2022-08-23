@@ -1,6 +1,5 @@
 
-
-This dataset it's the information for eight campaigns run on Snapchat.I am going  build, evaluate a prediction model for the number of ad swipe up delivered in a digital marketing campaign. 
+This project is to predict the success of the marketing campaign by predicting the number of Swipe up, I used a dataset it contains information for eight campaigns run on Snapchat. I am going to build, and evaluate a prediction model for the number of ad swipes up delivered in a digital marketing campaign. 
 
 # Data Dictionary
 | Field  Name        | Field Type    | Description                                                                                   |
