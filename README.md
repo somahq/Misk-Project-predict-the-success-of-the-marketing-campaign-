@@ -1,5 +1,14 @@
 
+
+# Introduction 
 This project is to predict the success of the marketing campaign by predicting the number of Swipe up, I used a dataset it contains information for eight campaigns run on Snapchat. I am going to build, and evaluate a prediction model for the number of ad swipes up delivered in a digital marketing campaign. 
+
+# The Problem
+Why do some digital marketing campaigns Fail ?
+
+# The goal
+ Optimizing the performance of digital marketing  campaigns
+
 
 # Data Dictionary
 | Field  Name        | Field Type    | Description                                                                                   |
