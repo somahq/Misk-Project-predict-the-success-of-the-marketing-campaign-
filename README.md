@@ -1,3 +1,7 @@
+
+
+This dataset it's the information for eight campaigns run on Snapchat.I am going  build, evaluate a prediction model for the number of ad swipe up delivered in a digital marketing campaign. 
+
 # Data Dictionary
 | Field  Name        | Field Type    | Description                                                                                   |
 | -------------      | ------------- | --------------------------------------------------------------------------------------
@@ -15,7 +19,8 @@
 |Paid eCPM           | float         |Effective cost per 1,000 impressions                                                           |
 |Swipe Ups           | integer       |The number of times the AD was swiped up on or the CTA was tapped to view the attachment.      |
 |eCPSU               | float         |Effective cost per swipe up, calculated as spend divided by the number of swipe ups delivered. |
-
+|File type           | Text          |Type of file used in the campaign                                                              |
+|Daily budget        | Integer       |the average amount you are willing to spend on a specific ad set per day                       |
 
 
 
